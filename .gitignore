@@ -1,2 +1,2 @@
-**/snapshots/*.hd5
-**/frames/*.png
+*.hd5
+*.png
